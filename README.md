@@ -12,7 +12,7 @@ en production selon le cycle de vie MLOps.
 # ------------ Lancement de ce REPO Github ------------------
 
 ## sur un IDE (VSC par exemple) en local
- - $ git clone https://github.com/Fred-Zang/mlops_projet2.git  
+ - $ git clone https://github.com/egasnier/mlops_projet2.git  
     => cela va copier tous les dossier et fichiers du REPO dans un nouveau dossier local "mlops_projet2"
 
 ## récupérer wikipedia2vec
